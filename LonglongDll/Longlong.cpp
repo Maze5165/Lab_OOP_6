@@ -1,5 +1,4 @@
 #include "pch.h" 
-#define LONGLONGDLL_EXPORTS 
 #include "Longlong.h"
 
 using namespace std;
